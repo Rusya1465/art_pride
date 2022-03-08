@@ -1,0 +1,32 @@
+.Navbar {
+  height: 60px;
+  background: transparent;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  padding-top: 10px;
+  z-index: 200;
+  position: relative;
+}
+
+.Navbar_items {
+  display: flex;
+  width: 50vw;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.Navbar_link {
+  color: #fff;
+  text-decoration: none;
+  padding: 1rem;
+}
+
+.logo_title {
+  color: #ffdc93;
+  font-size: 1.1rem;
+}
+
+.Logo_blocks {
+  display: flex;
+}
