@@ -1,6 +1,20 @@
 .container {
   width: 100vw;
-  height: 1200px;
+  height: 100%;
+  background: #151515;
+}
+.catalog_main__title {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: "Buenard", serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 50px;
+  line-height: 91px;
+  color: #ffffff;
+
+  opacity: 0.5;
 }
 
 .article {
@@ -18,6 +32,7 @@
   background: #2c373a;
   color: #fff;
   padding: 20px;
+  font-family: "Buenard", serif;
 }
 .article_text:nth-child(2) {
   margin: 14px;

@@ -14,6 +14,15 @@
   width: 50vw;
   justify-content: space-between;
   align-items: center;
+  font-family: "Buenard", serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 31px;
+
+  color: #ffffff;
+
+  opacity: 0.7;
 }
 
 .Navbar_link {
@@ -25,6 +34,14 @@
 .logo_title {
   color: #ffdc93;
   font-size: 1.1rem;
+  font-family: "Libre Baskerville", serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+
+  color: #ffdc93;
+
+  opacity: 0.7;
 }
 
 .Logo_blocks {

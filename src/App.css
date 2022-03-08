@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css2?family=Buenard:wght@400;700&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap");
+
 .detail_btn {
   width: 206px;
   height: 62px;
@@ -19,8 +21,8 @@
     0 5px
   );
   position: absolute;
-  top: 90%;
-  left: 50%;
+  top: 88.5%;
+  left: 50.5%;
 }
 .detail_btn img {
   width: 40px;
