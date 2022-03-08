@@ -1,0 +1,29 @@
+.container {
+  width: 100vw;
+  height: 1200px;
+}
+
+.article {
+  display: flex;
+  width: 900px;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+}
+.article_text {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 23px;
+  background: #2c373a;
+  color: #fff;
+  padding: 20px;
+}
+.article_text:nth-child(2) {
+  margin: 14px;
+}
+.article_img {
+  width: 330px;
+  height: 450px;
+  position: relative;
+}
