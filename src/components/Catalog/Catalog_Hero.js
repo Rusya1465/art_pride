@@ -2,9 +2,9 @@ const CatalogHero = () => {
   return (
     <section>
       <div classname="container">
-        <h1 className="title">
+        <h2 className="title">
           Галерея работ <br />и наших услуг
-        </h1>
+        </h2>
       </div>
     </section>
   );

@@ -9,6 +9,9 @@ import DetailBtn from "./DetailBtn";
 const CatalogMain = () => {
   return (
     <div className="container">
+      <div className="catalog_main__title">
+        <h2>У нас вы можете приобрести</h2>
+      </div>
       <div className="article">
         <div className="article_text">
           <p>
