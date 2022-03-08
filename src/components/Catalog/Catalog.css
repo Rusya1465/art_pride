@@ -1,0 +1,21 @@
+section {
+  background: url("./img/hero.jpg");
+  width: 100vw;
+  height: 100vh;
+  margin-top: -70px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.title {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 90px;
+  line-height: 130px;
+
+  color: #ffffff;
+
+  opacity: 0.5;
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
