@@ -1,4 +1,4 @@
-const CatalogHero = () => {
+const GalleryHero = () => {
   return (
     <section>
       <div classname="container">
@@ -10,4 +10,4 @@ const CatalogHero = () => {
   );
 };
 
-export default CatalogHero;
+export default GalleryHero;
