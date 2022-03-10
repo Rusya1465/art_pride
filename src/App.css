@@ -23,7 +23,15 @@
   position: absolute;
   top: 88.5%;
   left: 50.5%;
+  color: white;
 }
 .detail_btn img {
   width: 40px;
+}
+.blur {
+  background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7));
+  /* background: rgba(255, 255, 255, 0.2); */
+  backdrop-filter: blur(8px);
+  padding-top: 20px;
+  z-index: 200;
 }

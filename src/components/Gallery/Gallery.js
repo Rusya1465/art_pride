@@ -1,5 +1,14 @@
+import GalleryHero from "./Gallery_Hero";
+import "./Gallery.css";
+import GalleryMain from "./GalleryMain/GalleryMain";
+
 const Gallery = () => {
-  return <h1>Gallery</h1>;
+  return (
+    <>
+      <GalleryHero />
+      <GalleryMain />
+    </>
+  );
 };
 
 export { Gallery };
